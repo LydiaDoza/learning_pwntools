@@ -1,0 +1,140 @@
+================================================================================
+= Started at 2021-04-21T12:50:52                                               =
+= sys.argv = [                                                                 =
+=   'learning-pwntools.py',                                                    =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2021-04-21T12:50:52                                               =
+= sys.argv = [                                                                 =
+=   'learning-pwntools.py',                                                    =
+= ]                                                                            =
+================================================================================
+2021-04-21T12:50:52:INFO:pwnlib.tubes.remote.remote.140264929199536:Opening connection to mercury.picoctf.net on port 22342
+2021-04-21T12:50:52:INFO:pwnlib.tubes.remote.remote.140264929199536:Opening connection to mercury.picoctf.net on port 22342: Trying 18.189.209.142
+2021-04-21T12:50:52:INFO:pwnlib.tubes.remote.remote.140264929199536:Opening connection to mercury.picoctf.net on port 22342: Done
+2021-04-21T12:50:52:INFO:pwnlib.util.web:picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}
+
+================================================================================
+= Started at 2021-04-21T12:51:26                                               =
+= sys.argv = [                                                                 =
+=   'learning-pwntools.py',                                                    =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2021-04-21T12:51:26                                               =
+= sys.argv = [                                                                 =
+=   'learning-pwntools.py',                                                    =
+= ]                                                                            =
+================================================================================
+2021-04-21T12:51:26:INFO:pwnlib.tubes.remote.remote.140160709768624:Opening connection to mercury.picoctf.net on port 22342
+2021-04-21T12:51:26:INFO:pwnlib.tubes.remote.remote.140160709768624:Opening connection to mercury.picoctf.net on port 22342: Trying 18.189.209.142
+2021-04-21T12:51:26:INFO:pwnlib.tubes.remote.remote.140160709768624:Opening connection to mercury.picoctf.net on port 22342: Done
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:Sent 0x9 bytes:
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'GET /\r\n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'\r\n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:Received 0xbb bytes:
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'112 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'105 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'99 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'111 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'67 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'84 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'70 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'123 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'103 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'48 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'48 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'100 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'95 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'107 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'49 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'116 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'116 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'121 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'33 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'95 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'110 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'49 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'99 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'51 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'95 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'107 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'49 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'116 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'116 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'121 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'33 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'95 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'53 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'102 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'98 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'53 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'101 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'53 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'49 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'100 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'125 \n'
+2021-04-21T12:51:26:DEBUG:pwnlib.tubes.remote.remote.140160709768624:b'10 \n'
+2021-04-21T12:51:26:INFO:pwnlib.util.web:picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}
+
+================================================================================
+= Started at 2021-04-21T12:56:40                                               =
+= sys.argv = [                                                                 =
+=   'learning-pwntools.py',                                                    =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2021-04-21T12:56:40                                               =
+= sys.argv = [                                                                 =
+=   'learning-pwntools.py',                                                    =
+= ]                                                                            =
+================================================================================
+2021-04-21T12:56:40:INFO:pwnlib.tubes.remote.remote.140114000172464:Opening connection to mercury.picoctf.net on port 22342
+2021-04-21T12:56:40:INFO:pwnlib.tubes.remote.remote.140114000172464:Opening connection to mercury.picoctf.net on port 22342: Trying 18.189.209.142
+2021-04-21T12:56:40:INFO:pwnlib.tubes.remote.remote.140114000172464:Opening connection to mercury.picoctf.net on port 22342: Done
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:Received 0xbb bytes:
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'112 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'105 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'99 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'111 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'67 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'84 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'70 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'123 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'103 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'48 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'48 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'100 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'95 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'107 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'49 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'116 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'116 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'121 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'33 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'95 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'110 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'49 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'99 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'51 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'95 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'107 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'49 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'116 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'116 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'121 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'33 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'95 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'53 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'102 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'98 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'53 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'101 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'53 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'49 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'100 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'125 \n'
+2021-04-21T12:56:40:DEBUG:pwnlib.tubes.remote.remote.140114000172464:b'10 \n'
+2021-04-21T12:56:40:INFO:pwnlib.util.web:picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}
+
